@@ -1,0 +1,5 @@
+linux.pem
+.terraform*
+terraform*
+1vm.tfbk
+4vms.tfcp
